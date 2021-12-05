@@ -1,0 +1,7 @@
+sendgrid.env
+.DS_Store
+.env
+pyvenv.cfg
+lib
+bin
+include
